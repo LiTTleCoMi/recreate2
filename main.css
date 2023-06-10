@@ -29,6 +29,7 @@
 }
 .input {
     padding: 7px 20px 7px 0;
+    border: 1px solid lightgray;
 }
 .submit {
     width: 300px;
